@@ -1,0 +1,15 @@
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\bin\Debug\net6.0\Task_02.exe
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\bin\Debug\net6.0\Task_02.deps.json
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\bin\Debug\net6.0\Task_02.runtimeconfig.json
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\bin\Debug\net6.0\Task_02.dll
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\bin\Debug\net6.0\Task_02.pdb
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.csproj.AssemblyReference.cache
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.AssemblyInfoInputs.cache
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.AssemblyInfo.cs
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.csproj.CoreCompileInputs.cache
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.dll
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\refint\Task_02.dll
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.pdb
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\Task_02.genruntimeconfig.cache
+D:\GB_edu\C#\C#_HW_1\HomeWork_Sem_01\Task_02\obj\Debug\net6.0\ref\Task_02.dll
