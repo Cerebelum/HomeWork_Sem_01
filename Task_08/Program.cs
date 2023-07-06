@@ -6,7 +6,7 @@
 Console.Write("Введите число: ");
 int num = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
-for (int i = 1; i < num - 1; i++) // Можно начать с 2, но вдруг переделывать на нечетные))
+for (int i = 1; i < (num - 1); i++) // Можно начать с 2, но вдруг переделывать на нечетные))
 {
     if (i%2 == 0)
     {
@@ -23,7 +23,7 @@ else
 }
 
 // так компактнее
-// for (int i = 1; i < num - 1; i++)
+// for (int i = 1; i < (num - 1); i++)
 //     if (i%2 == 0) Console.Write(i + ", ");
 // if (num%2 != 0) Console.Write(num - 1);
 // else Console.Write(num);
